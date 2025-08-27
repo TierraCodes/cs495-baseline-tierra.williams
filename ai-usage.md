@@ -1,0 +1,1 @@
+I used ChatGPT to give me some example functions in python so that I could get re-used to the syntax as I haven't used python in a while. The function that I wrote was my own though.
